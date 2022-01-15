@@ -1,2 +1,2 @@
 # datas-science-portfolio
-Using R Scripts to generate a Data Science Portfolio website
+Using R and YAML files to generate a Data Science Portfolio website
